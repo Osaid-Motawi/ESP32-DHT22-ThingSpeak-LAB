@@ -47,13 +47,13 @@ See `diagram.json` and the wiring screenshot for the simulation schematic.
 
 ## Screenshots
 ### Wokwi Circuit
-![Wokwi ESP32 and DHT22 wiring](![alt text](image.png))
+![Wokwi ESP32 and DHT22 wiring](https://github.com/Osaid-Motawi/ESP32-DHT22-ThingSpeak-LAB/blob/main/screenshots/image%201.png)
 
 ### Serial Monitor
-![Serial Monitor readings and successful ThingSpeak upload](![alt text](image.png))
+![Serial Monitor readings and successful ThingSpeak upload](https://github.com/Osaid-Motawi/ESP32-DHT22-ThingSpeak-LAB/blob/main/screenshots/image%202.png)
 
 ### ThingSpeak Charts
-![Public ThingSpeak temperature and humidity charts](![alt text](image-1.png))
+![Public ThingSpeak temperature and humidity charts](https://github.com/Osaid-Motawi/ESP32-DHT22-ThingSpeak-LAB/blob/main/screenshots/image%203.png)
 
 ## Results
 The simulation successfully connected to Wi-Fi and uploaded readings to ThingSpeak. During testing, the sensor values were changed from approximately 24 °C and 40% humidity to 31.3 °C and 60.5% humidity. The public channel showed multiple entries and both charts reflected the changes over time.
